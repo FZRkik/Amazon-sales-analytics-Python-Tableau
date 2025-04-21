@@ -1,1 +1,1 @@
-<img src="D:\Users\HP\Documents\Data Analytics\Projects\Amazon Sales Analytics with Python & Tableau\Amazon Sales Dashboard.png"  style="width: auto; height: auto;" />
+<img src="Dashboard/Amazon Sales Dashboard.png"  style="width: auto; height: auto;" />
